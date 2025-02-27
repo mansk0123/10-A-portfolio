@@ -40,7 +40,7 @@
                 <h3><a href="https://example.com/janel" target="_blank">Заңғар М.</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="https://example.com/aibek" target="_blank">Қайнар</a></h3>
+                <h3><a href="portfolioKAINAR.html" target="_blank">Қайнар</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="https://example.com/aruzhan" target="_blank">Қайрат</a></h3>
