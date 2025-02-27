@@ -25,7 +25,7 @@
         <h2>Students</h2>
         <div class="student-list">
             <div class="student-card">
-                <h3><a href="https://example.com/alihan" target="_blank">Адия</a></h3>
+                <h3><a href="adiya.htm" target="_blank">Адия</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="inform3.html" target="_blank">Алуа</a></h3>
