@@ -34,7 +34,7 @@
                 <h3><a href="https://example.com/medet" target="_blank">Ерасыл</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="https://example.com/damir" target="_blank">Заңғар С.</a></h3>
+                <h3><a href="зангар.html" target="_blank">Заңғар С.</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="https://example.com/janel" target="_blank">Заңғар М.</a></h3>
