@@ -31,7 +31,7 @@
                 <h3><a href="inform3.html" target="_blank">Алуа</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="https://example.com/medet" target="_blank">Ерасыл</a></h3>
+                <h3><a href="" target="_blank">Ерасыл</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="зангар.html" target="_blank">Заңғар С.</a></h3>
@@ -43,7 +43,7 @@
                 <h3><a href="portfolioKAINAR.html" target="_blank">Қайнар</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="https://example.com/aruzhan" target="_blank">Қайрат</a></h3>
+                <h3><a href="" target="_blank">Қайрат</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="қуаныш.html" target="_blank">Қуаныш</a></h3>
@@ -58,7 +58,7 @@
                 <h3><a href="portfolio.html" target="_blank">Мансұр</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="https://example.com/madina" target="_blank">Өмірбек</a></h3>
+                <h3><a href="omirbek.html"_blank">Өмірбек</a></h3>
             </div>
         </div>
     </section>
