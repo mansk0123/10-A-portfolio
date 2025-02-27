@@ -117,7 +117,7 @@
             • 8-сыныптан бастап – Шынар Байтуяковна біздің жаңа жетекшіміз атанды.
         Біздің сынып – ерекше, мықты әрі ұйымшыл. Біз әрқашан бір-бірімізге қолдау көрсетіп, алға ұмтыламыз!</p>
         <h2>Сынып суреті</h2>
-        <img src="[images/class_photo.jpg](https://media-hkg1-2.cdn.whatsapp.net/v/t61.24694-24/456225520_1166924101037432_1412175866550767691_n.jpg?ccb=114&oh=01_Q5AaIPYoqVCpAtTZqQsi1sUn3QsLDkXV5jSh3R68hTu7euvz&oe=67CDBC5B&_nc_sid=5e03e0&_nc_cat=109)" alt="Сынып суреті" class="class-photo">
+        <img src="./img/сынып.jpg" alt="Сынып суреті" class="class-photo">
     </section>
     <section id="students" class="students">
         <h2>Оқушылар</h2>
