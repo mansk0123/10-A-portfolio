@@ -49,7 +49,7 @@
                 <h3><a href="қуаныш.html" target="_blank">Қуаныш</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="moldir (3).html" target="_blank">Мөлдір</a></h3>
+                <h3><a href="moldir.html" target="_blank">Мөлдір</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="https://example.com/diana" target="_blank">Малика</a></h3>
