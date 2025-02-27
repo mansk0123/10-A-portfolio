@@ -58,7 +58,7 @@
                 <h3><a href="portfolio.html" target="_blank">Мансұр</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="omirbek.html"_blank">Өмірбек</a></h3>
+                <h3><a href="omirbek.html" target="_blank">Өмірбек</a></h3>
             </div>
         </div>
     </section>
