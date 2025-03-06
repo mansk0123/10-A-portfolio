@@ -129,7 +129,7 @@
                 <h3><a href="inform3.html" target="_blank">Алуа</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="" target="_blank">Ерасыл</a></h3>
+                <h3><a href="erasyl1" target="_blank">Ерасыл</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="зангар.html" target="_blank">Заңғар С.</a></h3>
