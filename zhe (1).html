@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head> 
+    <style>
+        body {
+            background-color: LightBlue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: black;
+            font-size: 32px;
+        }
+
+        .container {
+            display: flex;
+            gap: 40px; /* Расстояние между блоками */
+            align-items: center;
+            max-width: 90%;
+            margin: auto;
+        }
+
+        .achievements {
+            font-size: 22px;
+            color: black;
+            flex: 1;
+        }
+
+        .images {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* Две колонки для фото */
+            gap: 15px;
+        }
+
+        .images img {
+            width: 250px;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Менің жетістіктерім</h1>
+
+    <div class="container">
+        <!-- Блок с достижениями -->
+        <ul class="achievements">
+            <li>🎾 Теннис турнирдан 3-орын алғанмын</li>
+            <li>🤝 Еріктілер командасындамын</li>
+            <li>🏆 5 сыныпта халықаралық олимпиададан 2-орын алғанмын</li>
+            <li>📐 2 сыныптан бастап менде математикалық олимпиадалардан орын болған</li>
+            <li>🥇 3 сыныпта командалық жарыспен 3 орын алдық</li>
+            <li>📚 2021 жылы КТЛ мектебіне тапсырғанда топ-2 мен түскенмін</li>
+            <li>📝 2-9 сынып аралығы староста болғанмын</li>
+            <li>♟️ Шахмат бойынша бүкіл жарыста топ-1 болғанмын</li>
+            <li>♟️ Шахматтан 3-разряд</li>
+        </ul>
+
+
+        <div class="images">
+            <img src="https://takiedela.ru/wp-content/uploads/2013/11/1YvryfQRh4nI.jpg" alt="Олимпиада">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Tennis_Racket_and_Balls.jpg" alt="Теннис">
+            <img src="https://sever-press.ru/images/insecure/rs:fill-down:1920:1920/aHR0cHM6Ly9zdG9yYWdlLnlhbmRleGNsb3VkLm5ldC95bS1zaXRlcy1zdGF0aWMvNmY2NDAxNWItNTY0LndlYnA.webp" alt="Шахмат">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/640px-ChessSet.jpg" alt="Шахмат">
+
+        </div>
+    </div>
+
+</body>
+</html>
