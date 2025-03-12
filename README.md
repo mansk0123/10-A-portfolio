@@ -7,8 +7,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f4f8;
-            color: #333;
+            background-color: #081426; /* Темно-синий цвет фона */
+            color: #d0d5c2; /* Цвет текста */
             margin: 0;
             padding: 0;
         }
@@ -35,7 +35,7 @@
             margin: 0 15px;
         }
         nav ul li a {
-            color: #007BFF; 
+            color: #FFD700; /* Новый цвет текста в навигации */
             text-decoration: none;
             font-weight: bold;
         }
@@ -94,7 +94,6 @@
 <body>
     <header>
         <nav>
-            <img src="https://img.hhcdn.ru/employer-logo/2410370.png" class="logo" >
             <ul class="nav-links">
                 <li><a href="#about">Сынып туралы</a></li>
                 <li><a href="#students">Оқушылар</a></li>
