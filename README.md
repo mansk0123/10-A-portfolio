@@ -44,18 +44,37 @@
         h1, h2 {
             color: #007BFF;
         }
+        .student-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
         .student-card {
-            background-color: #E9ECEF; /* Светло-серый фон карточек */
-            color: #333333;
+            flex: 1 1 calc(33.333% - 20px);
+            background-color: #E9ECEF;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .student-card h3 {
+            margin: 0;
         }
         .student-card a {
             color: #007BFF;
+            text-decoration: none;
         }
         .student-card a:hover {
             text-decoration: underline;
         }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
         ul li {
             background: #E9ECEF;
+            margin: 5px 0;
+            padding: 10px;
             border-left: 5px solid #007BFF;
         }
         .class-photo {
@@ -79,29 +98,47 @@
     </header>
     <section id="about" class="about">
         <h1>10-сынып туралы</h1>
-        <p>РФММ мектебінің 10 “А” сыныбында қазіргі таңда 25 оқушы бар...</p>
+        <p>РФММ мектебінің 10 “А” сыныбында қазіргі таңда 25 оқушы бар, сынып жетекшісі Шынар Байтуяковна.  
+        Біз екі топқа бөлінгенбіз: 1-топта 13 оқушы, 2-топта 12 оқушы.  
+        <strong>Сыныптың тарихы:</strong> 
+        Біз 2021 жылы 7-сыныпқа келгенде 28 оқушы едік. Алайда уақыт өте келе 7 оқушы түрлі себептермен мектептен кетті.  
+        Бірақ олардың орнына жаңа оқушылар қосылып, қазір 25 адамнан тұратын мықты сыныпқа айналдық.  
+        <strong>Сынып жетекшілеріміз:</strong>  
+        - 7-сыныпта біздің сынып жетекшіміз Камилла Асқаровна болды.  
+        - 8-сыныптан бастап Шынар Байтуяковна біздің жаңа жетекшіміз атанды. 
+        <strong>Біздің сынып ерекше мықты әрі ұйымшыл!</strong>  
+        Біз әрқашан бір-бірімізге қолдау көрсетіп, алға ұмтыламыз.  
+        </p>
         <h2>Сынып суреті</h2>
         <img src="./img/10A.jpeg" alt="Сынып суреті" class="class-photo">
     </section>
     <section id="students" class="students">
         <h2>Оқушылар</h2>
         <div class="student-list">
-            <div class="student-card">
-                <h3><a href="adiya.htm" target="_blank">Адия</a></h3>
-            </div>
-            <div class="student-card">
-                <h3><a href="inform3.html" target="_blank">Алуа</a></h3>
-            </div>
-            <div class="student-card">
-                <h3><a href="erasyl1.htm" target="_blank">Ерасыл</a></h3>
-            </div>
+            <div class="student-card"><h3><a href="adiya.htm" target="_blank">Адия</a></h3></div>
+            <div class="student-card"><h3><a href="inform3.html" target="_blank">Алуа</a></h3></div>
+            <div class="student-card"><h3><a href="erasyl1.htm" target="_blank">Ерасыл</a></h3></div>
+            <div class="student-card"><h3><a href="зангар.html" target="_blank">Заңғар С.</a></h3></div>
+            <div class="student-card"><h3><a href="зангар2.html" target="_blank">Заңғар М.</a></h3></div>
+            <div class="student-card"><h3><a href="portfolioKAINAR.html" target="_blank">Қайнар</a></h3></div>
+            <div class="student-card"><h3><a href="қайрат.html" target="_blank">Қайрат</a></h3></div>
+            <div class="student-card"><h3><a href="қуаныш.html" target="_blank">Қуаныш</a></h3></div>
+            <div class="student-card"><h3><a href="moldir.html" target="_blank">Мөлдір</a></h3></div>
+            <div class="student-card"><h3><a href="malikaaa.html" target="_blank">Малика</a></h3></div>
+            <div class="student-card"><h3><a href="portfolio.html" target="_blank">Мансұр</a></h3></div>
+            <div class="student-card"><h3><a href="omirbek.html" target="_blank">Өмірбек</a></h3></div>
         </div>
     </section>
     <section id="achievements" class="achievements">
         <h2>Жетістіктер</h2>
         <ul>
             <li>🏆 Республиканский этап Hippo Olympiad 2 место</li>
-            <li>🏆 IMEC онлайн математика олимпиадасында қола жүлде</li>
+            <li>🏆 Республиканская Олимпиады (Областной этап) 2 Х третье место</li>
+            <li>🏆 IMEC онлайн математика олимпиадасында қола жүлдеге ие болды, IMEC 5-санатында.</li>
+            <li>🏆 2024 жылғы 25 қарашада өткен Junior English Olympics біліктілік кезеңінде күміс жүлдеге ие болды.</li>
+            <li>🏆 Грепплинг, джиу-джитсудан Koktem Open жарысында 🥇🥇 орын</li>
+            <li>🏆 Грепплингтан Алматы қаласында өткен UWW ЧРҚ-дан 2 орын 🥈</li>
+            <li>🏆 Грепплингтан Ташкент қаласында өткен Азия чемпионатынан 1 орын 🥇</li>
         </ul>
     </section>
 </body>
